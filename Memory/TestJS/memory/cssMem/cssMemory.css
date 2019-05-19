@@ -1,0 +1,28 @@
+h1
+{
+	font-family:Impact;
+}
+canvas
+{
+	position:absolute;
+	left:10em;
+}
+
+
+#prez
+{
+	position:absolute;
+	left:68em;
+	width:250px;
+	background-color:#afa;
+	height:50px;
+}
+#ath
+{
+	position:absolute;
+	left:68em;
+	top:150px;
+	width:250px;
+	background-color:#afa;
+	height:1000px;
+}
